@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature manual="selected" name="SPLSoft ATMs"/>
+	<feature manual="selected" name="ConsultarSaldo"/>
+	<feature manual="selected" name="RetirarDinero"/>
+	<feature manual="selected" name="Transferencias"/>
+	<feature manual="selected" name="Consignaciones"/>
+	<feature manual="selected" name="ListadoOperaciones"/>
+	<feature manual="unselected" name="RegistroAuditoria"/>
+	<feature manual="unselected" name="ModoSaldoReducido"/>
+</configuration>

@@ -88,11 +88,6 @@ public class Cajero {
 		
 		// crea los comandos que se van a usar en la aplicación
 		List<Comando> comandos = new ArrayList<>();
-		
-		comandos.add(new ComandoListarCuentas());
-		comandos.add(new ComandoRetirar());
-		comandos.add(new ComandoConsignar());
-		comandos.add(new ComandoTransferir());
 
 		return comandos;
 	}
